@@ -1,0 +1,11 @@
+  
+{
+  "extends": [
+    "group:allNonMajor",
+    "github>sanity-io/renovate-presets:sanity-template"
+  ],
+  "schedule": [
+    "every weekend"
+  ],
+  "lockFileMaintenance": true
+}
