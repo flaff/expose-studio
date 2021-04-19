@@ -1804,23 +1804,7 @@
     "@types/react" "^17.0.0"
     rxjs "^6.5.3"
 
-"@sanity/ui@>=0.33.11":
-  version "0.33.13"
-  resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-0.33.13.tgz#ac923ac14f61da113af7a36f6e7b3162826ffd7f"
-  integrity sha512-NNqxUtxIpWZuyXIgmoEp+VkwNiSgM6pkyr10iy46EH6kQL0NfSd5EFRAVew8DQeCJ14TamkkZFpx7+PE+gEVww==
-  dependencies:
-    "@juggle/resize-observer" "^3.3.0"
-    "@popperjs/core" "^2.9.2"
-    "@reach/auto-id" "^0.15.0"
-    "@sanity/color" "^2.0.15"
-    "@sanity/icons" "^1.0.6"
-    framer-motion "^4.1.3"
-    popper-max-size-modifier "^0.2.0"
-    react-is "^17.0.2"
-    react-popper "^2.2.5"
-    react-refractor "^2.1.4"
-
-"@sanity/ui@^0.33.12":
+"@sanity/ui@>=0.33.11", "@sanity/ui@^0.33.12":
   version "0.33.16"
   resolved "https://registry.yarnpkg.com/@sanity/ui/-/ui-0.33.16.tgz#35dacccce775b112549335885ffb4c4a10e7cc3b"
   integrity sha512-HI/p1HKfK4wmzJgFivU9aG39BGcwQ29BAiQjfYjkTT7nPG0370M5q+u6Ez4O20HageaUBNJ4B4mc170aeWPEkw==
@@ -3179,9 +3163,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000792, caniuse-lite@^1.0.30000805, caniuse-lite@^1.0.30001208:
-  version "1.0.30001209"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001209.tgz#1bb4be0bd118e98e21cfb7ef617b1ef2164622f4"
-  integrity sha512-2Ktt4OeRM7EM/JaOZjuLzPYAIqmbwQMNnYbgooT+icoRGrKOyAxA1xhlnotBD1KArRSPsuJp3TdYcZYrL7qNxA==
+  version "1.0.30001210"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001210.tgz#7c12d029e93b725cc2fe44a5eaabd9b838250d33"
+  integrity sha512-avmGf0Jo00I8vB0I89J4Pba48kddasErV7slu7wrkyM5uY9gE5P+B+V3hjABv8Hp4YNG2nBqIUFUXlnqNteXEA==
 
 capture-stack-trace@^1.0.0:
   version "1.0.1"
@@ -7407,9 +7391,9 @@ object-copy@^0.1.0:
     kind-of "^3.0.3"
 
 object-inspect@^1.6.0, object-inspect@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.9.0.tgz#c90521d74e1127b67266ded3394ad6116986533a"
-  integrity sha512-i3Bp9iTqwhaLZBxGkRfo5ZbE07BQRT7MGu8+nNgwW9ItGp1TzCTw2DLEoWwjClxBjOFI/hWljTAmYGCEwmtnOw==
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/object-inspect/-/object-inspect-1.10.2.tgz#b6385a3e2b7cae0b5eafcf90cddf85d128767f30"
+  integrity sha512-gz58rdPpadwztRrPjZE9DZLOABUpTGdcANUgOwBFO1C+HZZhePoP83M65WGDmbpwFYJSWqavbl4SgDn4k8RYTA==
 
 object-keys@^1.0.12, object-keys@^1.1.1:
   version "1.1.1"
