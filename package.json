@@ -10,7 +10,8 @@
     "build": "sanity build",
     "graphql-deploy": "sanity graphql deploy --playground",
     "lint": "eslint .",
-    "test": "sanity check"
+    "test": "sanity check",
+    "sanity:login": "sanity login"
   },
   "dependencies": {
     "@sanity/base": "^2.0.0",
@@ -29,7 +30,8 @@
     "sanity-plugin-content-model-graph": "^1.1.1",
     "sanity-plugin-dashboard-widget-document-list": "^0.0.13",
     "sanity-plugin-dashboard-widget-netlify": "^1.0.1",
-    "sanity-plugin-media": "^1.0.0"
+    "sanity-plugin-media": "^1.0.0",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",

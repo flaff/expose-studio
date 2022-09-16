@@ -40,6 +40,12 @@ export default {
       title: 'Techniki użyte w dziele',
       type: 'array',
       of: [{type: 'reference', to: {type: 'artTechnique'}}]
+    },
+    {
+      name: 'matureContent',
+      title: 'Treść dla dorosłych',
+      type: 'boolean',
+      initialValue: false
     }
   ],
   preview: {
