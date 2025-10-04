@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "expose-studio",
-  "version": "1.8.43",
+  "version": "1.8.44",
   "main": "package.json",
   "author": "Michal Cziomer <michal.cziomer@gmail.com>",
   "scripts": {
@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "@sanity/base": "^2.0.0",
-    "@sanity/cli": "^2.0.0",
+    "@sanity/cli": "^4.0.0",
     "@sanity/components": "^2.0.0",
     "@sanity/core": "^2.0.0",
-    "@sanity/dashboard": "^2.0.0",
+    "@sanity/dashboard": "^5.0.0",
     "@sanity/default-layout": "^2.0.0",
     "@sanity/default-login": "^2.0.0",
     "@sanity/desk-tool": "^2.0.0",
@@ -27,10 +27,10 @@
     "react": "^19.2.0",
     "react-bootstrap-icons": "1.0.3-alpha5",
     "react-dom": "^19.2.0",
-    "sanity-plugin-content-model-graph": "^1.1.1",
-    "sanity-plugin-dashboard-widget-document-list": "^0.0.13",
-    "sanity-plugin-dashboard-widget-netlify": "^1.0.1",
-    "sanity-plugin-media": "^1.0.0",
+    "sanity-plugin-content-model-graph": "^2.0.0",
+    "sanity-plugin-dashboard-widget-document-list": "^2.0.0",
+    "sanity-plugin-dashboard-widget-netlify": "^2.0.0",
+    "sanity-plugin-media": "^4.0.0",
     "styled-components": "^5.2.0"
   },
   "devDependencies": {
